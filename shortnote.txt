@@ -1,0 +1,1 @@
+This serverless function is an HTTP-triggered Cloud Function (or AWS Lambda) that returns a simple greeting. It accepts an optional `name` query parameter and responds with `Hello, <name>!`. Deployed via the cloud console and tested using the generated trigger URL.
